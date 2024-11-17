@@ -73,7 +73,7 @@ const recipientAddresses = [
                 web3.SystemProgram.transfer({
                     fromPubkey: from.publicKey,
                     toPubkey: toPublicKey,
-                    lamports: web3.LAMPORTS_PER_SOL * 0.001, // Amount to send (0.001 SOL)
+                    lamports: web3.LAMPORTS_PER_SOL * 0.00001, // Amount to send (0.001 SOL)
                 })
             );
 
