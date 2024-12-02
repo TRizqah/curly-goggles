@@ -66,6 +66,10 @@ chmod +x sonic.sh
 # Claim boxes after all transactions
 <img width="797" alt="image" src="https://github.com/user-attachments/assets/e36c986d-d077-4b20-b9c4-97fb18e04192">
 
+# Open boxes to earn rings
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/39e15733-978e-4d13-94d0-252c27336468">
+
+
 
 
 
