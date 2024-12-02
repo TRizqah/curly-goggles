@@ -4,6 +4,22 @@
 
 https://odyssey.sonic.game/?join=XbkdDQ
 
+## Get faucet
+you need to have at least 0.01 mainnet sol in your wallet before you will be able to use the faucet
+<img width="643" alt="snic" src="https://github.com/user-attachments/assets/2c13e75d-ae4a-45e8-be5e-bcdb1d06603f">
+
+if you have up to 0.01sol in your wallet but the faucet page is not showing it, look at the "TestnetV1" on the faucet page,
+change it to testnetV0, claim the faucet, change it back to testnetV1, it should work now then claim the faucet.
+you can claim 0.5 daily.
+
+## Change network on backpack wallet
+
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/3a1e62fc-874b-4daf-a9f7-8df274f228ea">
+click on add network and search for sonic frontierV1
+
+you should see your claimed faucet now.
+
+
 ## open codespaces or gitpod 
 
 https://github.com/codespaces
@@ -46,6 +62,10 @@ chmod +x sonic.sh
 # After it is done, locate tnx.mjs and delete your private key
 
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/16cd9a7c-e038-4042-9f1e-1968fa99fd09">
+
+# Claim boxes after all transactions
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/e36c986d-d077-4b20-b9c4-97fb18e04192">
+
 
 
 
